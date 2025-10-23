@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @B-Neil.<br>👀 I’m interested in programming, music, gaming, modding and many other things.<br>🌱 I’m currently learning java.<br>📫 How to reach me:<br>E-mail: joaoferreira.ac23@gmail.com<br>Discord: b_neil<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I'm up for anything.
+👋 Hi, I’m João Ferreira(B-Neil).<br>👀 I’m interested in programming, music, gaming, modding and many other things.<br>🌱 I’m currently learning java.<br>📫 How to reach me:<br>E-mail: joaoferreira.ac23@gmail.com<br>Discord: b_neil<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I'm up for anything.
 
 
 ## 🌐 Socials:
